@@ -28,4 +28,3 @@ Artifacts/
 - network-of-networks.svg
 - sample.html
 - tyle.css
-- temp
