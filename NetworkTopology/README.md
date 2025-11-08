@@ -6,9 +6,7 @@ CS 331, Fall 2025
 NetworkTopology/
 
 Artifacts/
-- networks map.odp
 - presentation.pdf
-- speakerNotes-1.pdf
 
 
 RawData/
