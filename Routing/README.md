@@ -5,6 +5,7 @@ CS 331, Fall 2025
 ## Contents of this directory
 
 Routing/
+
 RawData/
 - baidu.com_AP
 - baidu.com_BP
@@ -20,7 +21,9 @@ RawData/
 - stanford.edu_BP
 - uct.ac.za_AP
 - uct.ac.za_BP
+  
 Artifacts/
+
 - autonomous-system-diagram.svg
 - network-of-networks.svg
 - sample.html
