@@ -4,9 +4,7 @@ This is the README file for Luke Poley's CS 331, Fall 2025, project repository
 **NetworkTopology/**
 
 Artifacts/
-- networks map.odp
-- presentation.pdf
-- speakerNotes-1.pdf
+- Networks Presentation.pdf
 
 
 RawData/
