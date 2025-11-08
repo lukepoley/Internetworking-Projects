@@ -1,16 +1,14 @@
 This is the README file for Luke Poley's CS 331, Fall 2025, project repository
 
 ## repo contents
-NetworkTopology/
+**NetworkTopology/**
 
 Artifacts/
 - networks map.odp
 - presentation.pdf
 - speakerNotes-1.pdf
 
-
 RawData/
-
 - 2025-10-18_20-58_ping_baidu.com.txt           
 - 2025-10-18_20-58_ping_corndog.io.txt          
 - 2025-10-18_20-58_ping_db.com.txt              
@@ -25,19 +23,16 @@ RawData/
 - baidu.com.txt           
 
 
-ReliableTransport/
+**ReliableTransport/**
 
 Artifacts/
 - wireshark.pdf
 
-
 RawData/
-
 - filtered_trace.pcapng
 - radio.garden connect to KLRX.pcapng
 
-
-Routing/
+**Routing/**
 
 RawData/
 - baidu.com_AP
@@ -56,7 +51,6 @@ RawData/
 - uct.ac.za_BP
   
 Artifacts/
-
 - autonomous-system-diagram.svg
 - network-of-networks.svg
 - sample.html
