@@ -1,7 +1,11 @@
-This is the README file for [NAME]'s Reliable Transport project 
+## folder contents
+ReliableTransport/
 
-CS 331, Fall 2025
+Artifacts/
+- wireshark.pdf
 
-## Contents of this directory
 
-[you fill this in]
+RawData/
+
+- filtered_trace.pcapng
+- radio.garden connect to KLRX.pcapng
