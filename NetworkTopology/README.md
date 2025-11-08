@@ -13,15 +13,15 @@ Artifacts/
 
 RawData/
 
-- 2025-10-18_20-58_ping_baidu.com.txt           
-- 2025-10-18_20-58_ping_corndog.io.txt          
-- 2025-10-18_20-58_ping_db.com.txt              
-- 2025-10-18_20-58_ping_plato.stanford.edu.txt 
-- 2025-10-18_20-58_ping_regex101.com.txt        
-- 2025-10-18_20-58_ping_www.uct.ac.za.txt      
-- uct.ac.za.txt          
-- regex101.com.txt       
+- ping_baidu.com
+- ping_cs.rin.ru
+- ping_db.com
+- ping_plato.stanford.edu
+- ping_regex101.com
+- ping_weizmann.ac.il
+- weizmann.ac.il        
+- regex101.com 
 - plato.stanford.edu.txt 
-- db.com.txt              
-- corndog.io.txt         
-- baidu.com.txt           
+- db.com            
+- cs.rin.ru        
+- baidu.com.        
