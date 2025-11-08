@@ -54,4 +54,4 @@ Artifacts/
 - autonomous-system-diagram.svg
 - network-of-networks.svg
 - sample.html
-- tyle.css
+- style.css
