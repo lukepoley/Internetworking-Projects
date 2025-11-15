@@ -1,6 +1,23 @@
 This is the README file for Luke Poley's CS 331, Fall 2025, project repository
 
 ## repo contents
+**DNS/**
+
+Artifacts/
+- Analysis spreadsheet.xlsx
+- DNS Analysis.pdf
+- filtered_fullCapture2025-10-26.pcapng
+- mydns_test.py
+- test.py
+
+
+RawData/
+- results.csv
+- top500.csv
+
+
+
+
 **NetworkTopology/**
 
 Artifacts/
