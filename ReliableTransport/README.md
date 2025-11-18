@@ -1,4 +1,4 @@
-## folder contents
+## Contents of this directory
 ReliableTransport/
 
 Artifacts/
