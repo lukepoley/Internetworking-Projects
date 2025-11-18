@@ -1,8 +1,4 @@
-This is the README file for Luke Poley's Network Topology project
-
-CS 331, Fall 2025
-
-## Directory contents
+## Contents of this directory
 NetworkTopology/
 
 Artifacts/
