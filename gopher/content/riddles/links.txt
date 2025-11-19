@@ -1,0 +1,2 @@
+0A riddle concerning the world around us    riddles/riddle1.txt	10.133.8.124	48999
+0A riddle concerning the sensory experience riddles/riddle2.txt	10.133.8.124	48999

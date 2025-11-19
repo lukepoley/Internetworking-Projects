@@ -1,0 +1,2 @@
+This system contains numerous jokes and riddles.
+Check them out with our gopher implementation!

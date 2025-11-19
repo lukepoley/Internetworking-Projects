@@ -1,0 +1,3 @@
+Hey folks,
+Thanks for checking out our super cool gopher implementation.
+Time to get diggin.

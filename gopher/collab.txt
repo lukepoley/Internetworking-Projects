@@ -1,0 +1,5 @@
+The only outisde resce we used was checking out another Gopher implementation.
+
+We checked out what Floodgap implementation looks like to clarify how selector strings work and how information can be displayed ideally.
+
+An easy way to check it out is with curl gopher://gopher.floodgap.com.

@@ -1,0 +1,4 @@
+0About this server	about.txt	localhost	48999
+0A limerick	limerick.txt	localhost	48999
+1Haikus	Haikus/	localhost	48999
+1Sonnets	Sonnets/	localhost	48999

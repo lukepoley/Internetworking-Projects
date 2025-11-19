@@ -1,0 +1,4 @@
+0About this server	about.txt	10.133.8.124	48999
+0A greeting	hello.txt	10.133.8.124	48999
+1Jokes	jokes/	10.133.8.124	48999
+1Riddles	riddles/	10.133.8.124	48999
