@@ -56,6 +56,14 @@ Gopher description:
 - about.txt
 - hello.txt
 - links.txt
+- .gitignore
+- collab.md
+- collab.txt
+- gopherClient.py
+- gopherServer.py
+- README.md
+- reflection.txt
+- sampleLinks.txt
 
 /jokes
 - boomerang.txt
@@ -67,12 +75,4 @@ Gopher description:
 - riddle1.txt
 - riddle2.txt
 
-/
-- .gitignore
-- collab.md
-- collab.txt
-- gopherClient.py
-- gopherServer.py
-- README.md
-- reflection.txt
-- sampleLinks.txt
+
