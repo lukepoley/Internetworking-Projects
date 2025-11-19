@@ -7,3 +7,8 @@ Contents of this repository:
 - `content` and enclosed files: example file structure of the file portion of a gopher server. Can be replaced with a standards-compliant gopher server filestructure.
 - `sampleLinks.txt`: a file demonstrating how to format a .links file
 - `collab.txt` and `collab.md`: sample collaboration files in plain text and markdown formats
+
+
+test
+- test
+-   test
