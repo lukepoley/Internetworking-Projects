@@ -67,7 +67,7 @@ Gopher description:
 - riddle1.txt
 - riddle2.txt
 
-
+/
 - .gitignore
 - collab.md
 - collab.txt
