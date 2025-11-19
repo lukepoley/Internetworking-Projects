@@ -69,3 +69,30 @@ Artifacts/
 - network-of-networks.svg
 - sample.html
 - style.css
+
+**Gopher/**
+
+- collab.md
+- collab.txt
+- gopherClient.py
+- gopherServer.py
+- README.md
+- reflection.txt
+- sampleLinks.txt
+
+/content/
+- about.txt
+- hello.txt
+- links.txt
+
+/jokes
+- boomerang.txt
+- links.txt
+- scientists.txt
+
+/riddles
+- links.txt
+- riddle1.txt
+- riddle2.txt
+
+
