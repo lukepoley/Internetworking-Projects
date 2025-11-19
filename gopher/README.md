@@ -52,14 +52,16 @@ Gopher description:
     - HEAD
   /tags
 
-/content
+/content/
 - about.txt
 - hello.txt
 - links.txt
+
 /jokes
 - boomerang.txt
 - links.txt
 - scientists.txt
+
 /riddles
 - links.txt
 - riddle1.txt
