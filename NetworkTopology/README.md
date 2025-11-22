@@ -3,7 +3,7 @@ NetworkTopology/
 
 Artifacts/
 - Networks Presentation.pdf
-
+- networkTopology.svg
 
 RawData/
 
