@@ -1,6 +1,3 @@
-The NetworkTopology project has been revised.
-This is the README file for Luke Poley's CS 331, Fall 2025, project repository
-
 ## repo contents
 - collab.txt
 - README.md
