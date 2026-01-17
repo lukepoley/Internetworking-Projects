@@ -7,8 +7,6 @@ Gopher description:
 - `sampleLinks.txt`: a file demonstrating how to format a .links file
 - `collab.txt` and `collab.md`: sample collaboration files in plain text and markdown formats
 ## Contents of this directory
-- collab.md
-- collab.txt
 - gopherClient.py
 - gopherServer.py
 - README.md
