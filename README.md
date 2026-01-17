@@ -1,5 +1,5 @@
 ## Internetworking-Projects
-This repository contains a series of hands-on computer networking projects examining how the structure and implementation of the Internet shape real-world communication. Projects span the Hourglass model layers—from application-level protocol implementation (Gopher, DNS) to transport reliability (TCP analysis), Internet-layer routing and topology (IP, BGP), and network measurement using real data.
+This repository contains a series of hands-on computer networking projects examining how the structure and implementation of the Internet shape real-world communication. Projects span the Hourglass model layers from the application-level protocol implementation (Gopher, DNS) to transport reliability (TCP analysis), Internet-layer routing and topology (IP, BGP), and network measurement using real data.
 
 Through protocol implementation, packet capture analysis, and routing/topology visualization, these projects highlight key design trade-offs such as simplicity vs. functionality, reliability vs. performance, and decentralization vs. control. Together, they demonstrate the Internet as a scalable, best-effort “network of networks” and emphasize clear technical communication through code, data, and visualization.
 
