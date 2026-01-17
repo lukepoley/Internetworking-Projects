@@ -1,7 +1,5 @@
 ## repo contents
-- collab.txt
 - README.md
-- reflectiveEssay.pdf
 
 **DNS/**
 
