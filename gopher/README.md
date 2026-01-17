@@ -27,5 +27,3 @@ Gopher description:
 - links.txt
 - riddle1.txt
 - riddle2.txt
-
-
