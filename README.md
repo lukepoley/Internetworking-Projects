@@ -100,4 +100,6 @@ Artifacts/
 - riddle1.txt
 - riddle2.txt
 
+**network-detection-app**
+- ..
 
